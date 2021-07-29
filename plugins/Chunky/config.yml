@@ -5,7 +5,7 @@ language: en
 continue-on-restart: true
 tasks:
   world:
-    cancelled: true
+    cancelled: false
     radius: 500.0
     x-center: 0.0
     z-center: 0.0
