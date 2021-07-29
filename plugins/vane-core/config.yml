@@ -154,7 +154,7 @@ resource_pack:
   # Resource pack SHA-1 sum. Required to verify resource pack integrity.
   # Default: ""
   # sha1: "7db23656bc8ef165f8e63af2e39e8dd138fa3ea0"
-  sha1: "bc45b1d5c6e05bd5ba25368eb33a65adefde79cf"
+  sha1: "b61b00cf558139f6970f0dbae29d0321c422fe18"
   # URL to an resource pack. Will request players to use the specified resource
   # pack. [as of 1.16.2] Beware that the minecraft client currently has issues
   # with webservers that serve resource packs via https and don't allow ssl3. This
