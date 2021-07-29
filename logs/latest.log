@@ -1,0 +1,223 @@
+[01:42:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:42:06] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[01:42:06] [Worker-Main-4/INFO]: Loaded 7 recipes
+[01:42:07] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[01:42:07] [Server thread/INFO]: Loading properties
+[01:42:07] [Server thread/INFO]: This server is running Paper version git-Paper-136 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 7480b94)
+[01:42:07] [Server thread/INFO]: Debug logging is disabled
+[01:42:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:42:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:42:07] [Server thread/INFO]: Default game type: SURVIVAL
+[01:42:07] [Server thread/INFO]: Generating keypair
+[01:42:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:42:07] [Server thread/INFO]: Using default channel type
+[01:42:08] [Server thread/INFO]: [vane-core] Loading head library...
+[01:42:08] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.28-SNAPSHOT (build 2359)
+[01:42:08] [Server thread/INFO]: [Chunky] Loading Chunky v1.2.86
+[01:42:08] [Server thread/INFO]: [GTAVLoading] Loading GTAVLoading v1.0
+[01:42:08] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[01:42:08] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[01:42:08] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.7.0
+[01:42:09] [Server thread/INFO]: [vane-core] Loading vane-core v1.2.1
+[01:42:09] [Server thread/INFO]: [vane-admin] Loading vane-admin v1.2.2
+[01:42:09] [Server thread/INFO]: [vane-portals] Loading vane-portals v1.2.1
+[01:42:09] [Server thread/INFO]: [vane-permissions] Loading vane-permissions v1.2.1
+[01:42:09] [Server thread/INFO]: [vane-enchantments] Loading vane-enchantments v1.2.1
+[01:42:09] [Server thread/INFO]: [vane-regions] Loading vane-regions v1.2.1
+[01:42:09] [Server thread/INFO]: [vane-bedtime] Loading vane-bedtime v1.2.1
+[01:42:09] [Server thread/INFO]: [vane-trifles] Loading vane-trifles v1.2.1
+[01:42:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:42:09] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.7.0
+[01:42:09] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[01:42:09] [Server thread/INFO]: [vane-core] Enabling vane-core v1.2.1
+[01:42:09] [Server thread/INFO]: [vane-core] Distributing resource pack from 'https://www.dropbox.com/s/4gpy8cwzmtxub19/Pixel-Sky.zip?dl=1' with sha1 1d5f15ee755f959f0e8f0f4ae55ca5ab4e63c292
+[01:42:09] [Server thread/INFO]: [vane-admin] Enabling vane-admin v1.2.2
+[01:42:09] [Server thread/INFO]: [vane-admin] Autostop scheduled in 20m
+[01:42:09] [Server thread/INFO]: [vane-portals] Enabling vane-portals v1.2.1
+[01:42:09] [Server thread/INFO]: [vane-permissions] Enabling vane-permissions v1.2.1
+[01:42:09] [Server thread/INFO]: [vane-enchantments] Enabling vane-enchantments v1.2.1
+[01:42:09] [Server thread/INFO]: [vane-regions] Enabling vane-regions v1.2.1
+[01:42:09] [Server thread/INFO]: [vane-bedtime] Enabling vane-bedtime v1.2.1
+[01:42:09] [Server thread/INFO]: [vane-trifles] Enabling vane-trifles v1.2.1
+[01:42:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:42:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:42:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:42:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:42:09] [Server thread/INFO]: Preparing level "world"
+[01:42:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:42:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:42:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:42:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[01:42:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[01:42:12] [Server thread/INFO]: Time elapsed: 1853 ms
+[01:42:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:42:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:42:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:42:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:42:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:42:13] [Server thread/INFO]: Time elapsed: 1694 ms
+[01:42:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:42:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:42:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:42:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:42:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:42:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:42:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[01:42:16] [Server thread/INFO]: Time elapsed: 2940 ms
+[01:42:16] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.28-SNAPSHOT (build 2359)
+[01:42:16] [Server thread/INFO]: [Citizens] Vault not found -> no economy handling.
+[01:42:16] [Server thread/INFO]: [Chunky] Enabling Chunky v1.2.86
+[01:42:16] [Server thread/INFO]: [GTAVLoading] Enabling GTAVLoading v1.0
+[01:42:16] [Server thread/INFO]: GTAVLoading has been enabled.
+[01:42:16] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[01:42:16] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[01:42:17] [Server thread/INFO]: [ClearLag] Loading modules...
+[01:42:17] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_17_R1.MinecraftServer)
+[01:42:17] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[01:42:17] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[01:42:17] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[01:42:17] [Thread-18/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.17]...
+[01:42:17] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[01:42:17] [Server thread/INFO]: 
+[01:42:17] [Server thread/INFO]:     __                      ____                                         _    _____
+[01:42:17] [Server thread/INFO]:    / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
+[01:42:17] [Server thread/INFO]:   / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
+[01:42:17] [Server thread/INFO]:  / /___/ /_/ / /_/ / /_/ / _, _/  __/ / / / / / /_/ / |/ /  __/ /       | |/ // __/
+[01:42:17] [Server thread/INFO]: /_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
+[01:42:17] [Server thread/INFO]:             /____//____/
+[01:42:17] [Server thread/INFO]: 
+[01:42:17] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[01:42:17] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[01:42:17] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[01:42:17] [Server thread/INFO]: Running delayed init tasks
+[01:42:17] [Server thread/INFO]: [Chunky] No tasks to continue.
+[01:42:17] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[01:42:17] [Server thread/INFO]: Done (10.592s)! For help, type "help"
+[01:42:17] [Server thread/INFO]: Timings Reset
+[01:42:18] [Thread-18/INFO]: [ClearLag] No updates found!
+[01:42:42] [User Authenticator #1/INFO]: UUID of player rsh is 4f5ad68d-96c1-315f-acbd-cb3e1f7c11da
+[01:42:42] [Server thread/INFO]: [vane-admin] [broadcast] rsh has joined the server
+[01:42:43] [Server thread/INFO]: [vane-admin] Autostop aborted
+[01:42:43] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.area' might have unintended effects.
+[01:42:43] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.chunk' might have unintended effects.
+[01:42:43] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.admin' might have unintended effects.
+[01:42:43] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.tpchunk' might have unintended effects.
+[01:42:43] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lr.tps' might have unintended effects.
+[01:42:43] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.halt' might have unintended effects.
+[01:42:43] [Server thread/INFO]: rsh[/127.0.0.1:52034] logged in with entity id 270 at ([world]433.69999998807907, 68.0, 108.54638847195905)
+[01:42:49] [Server thread/INFO]: [vane-admin] Autostop scheduled in 20m
+[01:42:49] [Server thread/INFO]: rsh lost connection: Your resource pack download seems to have failed.
+(You have been disconnected to prevent display errors)
+
+Please try again.
+[01:42:49] [Server thread/INFO]: [vane-admin] [broadcast] rsh was kicked from the server
+[01:42:49] [Server thread/INFO]: [vane-admin] Autostop aborted
+[01:42:49] [Server thread/INFO]: [vane-admin] Autostop scheduled in 20m
+[01:42:49] [Server thread/INFO]: [vane-core] The resource pack download for player rsh failed. This will cause client-side issues with formatted text for them.
+[01:42:55] [User Authenticator #1/INFO]: UUID of player rsh is 4f5ad68d-96c1-315f-acbd-cb3e1f7c11da
+[01:42:55] [Server thread/INFO]: [vane-admin] [broadcast] rsh has joined the server
+[01:42:55] [Server thread/INFO]: [vane-admin] Autostop aborted
+[01:42:55] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.area' might have unintended effects.
+[01:42:55] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.chunk' might have unintended effects.
+[01:42:55] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.admin' might have unintended effects.
+[01:42:55] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.tpchunk' might have unintended effects.
+[01:42:55] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lr.tps' might have unintended effects.
+[01:42:55] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.halt' might have unintended effects.
+[01:42:55] [Server thread/INFO]: rsh[/127.0.0.1:52042] logged in with entity id 472 at ([world]433.69999998807907, 78.0, 108.54638847195905)
+[01:42:59] [Server thread/INFO]: [vane-admin] Autostop scheduled in 20m
+[01:42:59] [Server thread/INFO]: rsh lost connection: Your resource pack download seems to have failed.
+(You have been disconnected to prevent display errors)
+
+Please try again.
+[01:42:59] [Server thread/INFO]: [vane-admin] [broadcast] rsh was kicked from the server
+[01:42:59] [Server thread/INFO]: [vane-admin] Autostop aborted
+[01:42:59] [Server thread/INFO]: [vane-admin] Autostop scheduled in 20m
+[01:42:59] [Server thread/INFO]: [vane-core] The resource pack download for player rsh failed. This will cause client-side issues with formatted text for them.
+[01:43:24] [User Authenticator #1/INFO]: UUID of player rsh is 4f5ad68d-96c1-315f-acbd-cb3e1f7c11da
+[01:43:24] [Server thread/INFO]: [vane-admin] [broadcast] rsh has joined the server
+[01:43:24] [Server thread/INFO]: [vane-admin] Autostop aborted
+[01:43:24] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.area' might have unintended effects.
+[01:43:24] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.chunk' might have unintended effects.
+[01:43:24] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.admin' might have unintended effects.
+[01:43:24] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.tpchunk' might have unintended effects.
+[01:43:24] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lr.tps' might have unintended effects.
+[01:43:24] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.halt' might have unintended effects.
+[01:43:24] [Server thread/INFO]: rsh[/127.0.0.1:52049] logged in with entity id 495 at ([world]433.69999998807907, 128.0, 108.54638847195905)
+[01:43:28] [Server thread/INFO]: [vane-admin] Autostop scheduled in 20m
+[01:43:28] [Server thread/INFO]: rsh lost connection: Your resource pack download seems to have failed.
+(You have been disconnected to prevent display errors)
+
+Please try again.
+[01:43:28] [Server thread/INFO]: [vane-admin] [broadcast] rsh was kicked from the server
+[01:43:28] [Server thread/INFO]: [vane-admin] Autostop aborted
+[01:43:28] [Server thread/INFO]: [vane-admin] Autostop scheduled in 20m
+[01:43:28] [Server thread/INFO]: [vane-core] The resource pack download for player rsh failed. This will cause client-side issues with formatted text for them.
+[01:44:47] [User Authenticator #2/INFO]: UUID of player rsh is 4f5ad68d-96c1-315f-acbd-cb3e1f7c11da
+[01:44:48] [Server thread/INFO]: [vane-admin] [broadcast] rsh has joined the server
+[01:44:48] [Server thread/INFO]: [vane-admin] Autostop aborted
+[01:44:48] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.area' might have unintended effects.
+[01:44:48] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.chunk' might have unintended effects.
+[01:44:48] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.admin' might have unintended effects.
+[01:44:48] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.tpchunk' might have unintended effects.
+[01:44:48] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lr.tps' might have unintended effects.
+[01:44:48] [Server thread/WARN]: [vane-permissions] Use of unregistered permission 'lagg.halt' might have unintended effects.
+[01:44:48] [Server thread/INFO]: rsh[/127.0.0.1:52078] logged in with entity id 699 at ([world]433.69999998807907, 178.0, 108.54638847195905)
+[01:44:52] [Server thread/INFO]: [vane-admin] Autostop scheduled in 20m
+[01:44:52] [Server thread/INFO]: rsh lost connection: Your resource pack download seems to have failed.
+(You have been disconnected to prevent display errors)
+
+Please try again.
+[01:44:52] [Server thread/INFO]: [vane-admin] [broadcast] rsh was kicked from the server
+[01:44:52] [Server thread/INFO]: [vane-admin] Autostop aborted
+[01:44:52] [Server thread/INFO]: [vane-admin] Autostop scheduled in 20m
+[01:44:52] [Server thread/INFO]: [vane-core] The resource pack download for player rsh failed. This will cause client-side issues with formatted text for them.
+[01:46:06] [Server thread/INFO]: Stopping the server
+[01:46:06] [Server thread/INFO]: Stopping server
+[01:46:06] [Server thread/INFO]: [vane-trifles] Disabling vane-trifles v1.2.1
+[01:46:06] [Server thread/INFO]: [vane-bedtime] Disabling vane-bedtime v1.2.1
+[01:46:06] [Server thread/INFO]: [vane-regions] Disabling vane-regions v1.2.1
+[01:46:06] [Server thread/INFO]: [vane-enchantments] Disabling vane-enchantments v1.2.1
+[01:46:06] [Server thread/INFO]: [vane-permissions] Disabling vane-permissions v1.2.1
+[01:46:06] [Server thread/INFO]: [vane-portals] Disabling vane-portals v1.2.1
+[01:46:06] [Server thread/INFO]: [vane-admin] Disabling vane-admin v1.2.2
+[01:46:06] [Server thread/INFO]: [vane-core] Disabling vane-core v1.2.1
+[01:46:06] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.7.0
+[01:46:06] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[01:46:06] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[01:46:06] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[01:46:06] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[01:46:06] [Server thread/INFO]: [GTAVLoading] Disabling GTAVLoading v1.0
+[01:46:06] [Server thread/INFO]: GTAVLoading has been disabled!
+[01:46:06] [Server thread/INFO]: [Chunky] Disabling Chunky v1.2.86
+[01:46:06] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.28-SNAPSHOT (build 2359)
+[01:46:06] [Server thread/INFO]: Saving players
+[01:46:06] [Server thread/INFO]: Saving worlds
+[01:46:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:46:06] [Timer-0/WARN]: [ClearLag] Clearlag has detected a possible lag spike on tick #4582 (Tick is currently at 535 milliseconds)
+[01:46:06] [Timer-0/WARN]: [ClearLag] Thread name: Server thread Id: 28
+[01:46:06] [Timer-0/WARN]: [ClearLag] Thread state: WAITING
+[01:46:06] [Timer-0/WARN]: [ClearLag] Thread stack-trace: 
+[01:46:06] [Timer-0/INFO]:  > java.base@16.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+[01:46:06] [Timer-0/INFO]:  > java.base@16.0.1/java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[01:46:06] [Timer-0/INFO]:  > app//com.destroystokyo.paper.io.QueueExecutorThread.flush(QueueExecutorThread.java:200)
+[01:46:06] [Timer-0/INFO]:  > app//com.destroystokyo.paper.io.chunk.ChunkTaskManager.flush(ChunkTaskManager.java:420)
+[01:46:06] [Timer-0/INFO]:  > app//net.minecraft.server.level.PlayerChunkMap.save(PlayerChunkMap.java:993)
+[01:46:06] [Timer-0/INFO]:  > app//net.minecraft.server.level.ChunkProviderServer.save(ChunkProviderServer.java:708)
+[01:46:06] [Timer-0/INFO]:  > app//net.minecraft.server.level.WorldServer.save(WorldServer.java:1015)
+[01:46:06] [Timer-0/INFO]:  > app//net.minecraft.server.MinecraftServer.saveChunks(MinecraftServer.java:889)
+[01:46:06] [Timer-0/INFO]:  > app//net.minecraft.server.MinecraftServer.stop(MinecraftServer.java:985)
+[01:46:06] [Timer-0/INFO]:  > app//net.minecraft.server.dedicated.DedicatedServer.stop(DedicatedServer.java:806)
+[01:46:06] [Timer-0/INFO]:  > app//net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1238)
+[01:46:06] [Timer-0/INFO]:  > app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[01:46:06] [Timer-0/INFO]:  > app//net.minecraft.server.MinecraftServer$$Lambda$3683/0x00000008013bb770.run(Unknown Source)
+[01:46:06] [Timer-0/INFO]:  > java.base@16.0.1/java.lang.Thread.run(Unknown Source)
+[01:46:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:46:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:46:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:46:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:46:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:46:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:46:10] [Server thread/INFO]: Saving usercache.json
+[01:46:10] [Server thread/INFO]: Flushing Chunk IO
+[01:46:10] [Server thread/INFO]: Closing Thread Pool
+[01:46:10] [Server thread/INFO]: Closing Server
