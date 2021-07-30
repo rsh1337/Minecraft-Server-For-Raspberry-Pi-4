@@ -73,7 +73,7 @@ ram-meter:
 # -- 'halted' this section defines which actions should be halted during '/lagg halt'
 halt-command:
   remove-entities: true
-  disable-natural-entity-spawning: true
+  disable-natural-entity-spawning: false
   halted:
     fire: true
     fire-burn: true
@@ -302,8 +302,6 @@ tps-meter:
   tps-trigger: 14.0
   tps-recover: 19.0
   commands:
-    - 'lagg killmobs'
-    - 'lagg clear'
     - 'lagg halt on'
   recover-commands:
     - 'lagg halt off'
@@ -333,7 +331,7 @@ kill-mobs:
 mobspawner:
   enabled: false
   max-spawn: 4
-  remove-mobs-on-chunk-unload: true
+  remove-mobs-on-chunk-unload: false
 
 #Dont use if you have CB++ or Spigot!
 item-merger:
