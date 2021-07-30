@@ -63,6 +63,10 @@ groups:
     - vane.permissions.commands.vouch
     - lr.lagg
     - lr.ram
+    - deathcoordinates.message
+    - deathcoordinates.bypasstime
+    - deathcoordinates.bypassmoney
+    - infohud.use
   admin:
     - vane.permissions.groups.verified
     - vane.admin.bypass_spawn_protection
@@ -99,6 +103,8 @@ groups:
     - lr.protocol
     - lr.ping
     - lr.tps
+    - deathcoordinates.admin
+    - infohud.admin
   user:
     - vane.permissions.groups.default
     - vane.admin.modify_world
