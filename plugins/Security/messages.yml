@@ -1,0 +1,19 @@
+Messages:
+  prefix: "&8[&6Pixel-Sky Security&8]"
+  setCode:
+    requirement: "%prefix% &cAn admin has called for you to set your code. /setpin <code> <confirm>"
+    success: "%prefix% &aSuccessfully saved your profile."
+    error:
+      alreadyHave: "&cYou already have a code! Do /pin!"
+  login:
+    requirement: "%prefix% &c/pin <code>"
+    success: "%prefix% &aLogged in!"
+    bypass: "%prefix% &aYou bypassed the security check due to your IP not changing."
+    error:
+      alreadyLogged: "&cYou are already logged in!"
+      incorrectCode: "&cIncorrect code!"
+  changeCode:
+   success: "%prefix% &aSet new code!"
+  error:
+    integerOnly: "%prefix% &cYou are only allowed to use numbers!"
+  

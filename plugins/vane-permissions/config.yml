@@ -7,22 +7,22 @@ lang: "inherit"
 
 # The module will only add functionality if this is set to true.
 # Default: true
-enabled: true
+enabled: false
 
 # Enable plugin metrics via bStats. You can opt-out here or via the global bStats
 # configuration.
 # Default: true
-metrics_enabled: true
+metrics_enabled: false
 
 command_permission:
   # Enable command permission
   # Default: true
-  enabled: true
+  enabled: false
 
 command_vouch:
   # Enable command vouch
   # Default: true
-  enabled: true
+  enabled: false
 
   # The group to assign to players when someone vouches for them.
   # Default: "user"

@@ -1,0 +1,10 @@
+#Config
+bungeecord: false
+TeamSpeak: "ts.pixel-sky.com"
+Strikes: 3
+AllowChangeCode: true
+BanCmd: "ban %player% Compromised Account (Come in %teamspeak%) -s"
+#If turned true it allows the use of numbers only.
+integerOnly: false
+#
+#Staff Information

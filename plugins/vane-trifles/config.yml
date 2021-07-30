@@ -12,7 +12,7 @@ enabled: true
 # Enable plugin metrics via bStats. You can opt-out here or via the global bStats
 # configuration.
 # Default: true
-metrics_enabled: true
+metrics_enabled: false
 
 better_harvesting:
   # Enables better harvesting. Right clicking on grown crops with bare hands will

@@ -1,0 +1,31 @@
+server.basics:
+   description: Basic permissions for Default Players
+   default: true
+   children:
+      bukkit.command.help: true
+      bukkit.broadcast: true
+      bukkit.broadcast.user: true
+      vane.admin.modify_world: true
+      deathcoordinates.message: true
+      deathcoordinates.bypassmoney: true
+      infohud.use: true
+
+server.admin:
+   description: Admin permissions
+   default: op
+   children:
+      vane.permissions.groups.verified: true
+      vane.admin.bypass_spawn_protection: true
+      vane.*.commands.*: true
+      vane.*: true
+      vane.admin.commands.spawn: true
+      vane.regions.commands.region: true
+      bukkit.*: true
+      lagg.*: true
+      lr.*: true
+      chunky.chunky: true
+      deathcoordinates.*: true
+      infohud.admin: true
+      vane.admin.commands.spawn: true
+      serverlogin.admin: true
+      security.staff: true
